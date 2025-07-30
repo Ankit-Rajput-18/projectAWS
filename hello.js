@@ -1,2 +1,2 @@
 console.log("hello")
-//add new button
+//add new card
